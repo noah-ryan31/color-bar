@@ -1,22 +1,22 @@
 .pink {
-	width:10vw;
-	height:5vh;
+	width:20vw;
+	height:15vh;
 	background-color:pink 
 }
 
 .red {
-	width:10vw;
-	height:10vh;
+	width:12vw;
+	height:20vh;
 	background-color:red;
 	
 }
 .yelow {
-	width:6vw;
+	width:15vw;
 	height:10vh;
 	background-color:yello;
 }
 .black {
-	width:10vw;
-	height:8vh;
+	width:15vw;
+	height:20vh;
 	background-color:black;
 }
