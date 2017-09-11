@@ -1,15 +1,22 @@
-.green {
-	width:750vw;
-	height:100vh;
-	background-color: #16A950;
+.pink {
+	width:40vw;
+	height:30vh;
+	background-color:pink 
 }
-.lightgreen {
-	width:750vw;
-	height:100vh;
-	background-color: #97D23C
+
+.red {
+	width:35vw;
+	height:40vh;
+	background-color:red;
+	
 }
 .yelow {
-	width:750vw;
-	height:100vh;
-	background-color: #FFEC0C
+	width:35vw;
+	height:40vh;
+	background-color:yello;
+}
+black {
+	width:45vw;
+	height:35vh;
+	background-color:black;
 }
